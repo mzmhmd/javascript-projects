@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+}
+
+div h1{
+    color: rebeccapurple;
+    font-size: 100px;
+}
+
+div button{
+    padding: 20px 20px;
+    background-color: blueviolet;
+    border-radius: 25px;
+    cursor: pointer;
+}
